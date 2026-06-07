@@ -10,6 +10,7 @@ Cuisine Popularity Analysis
 Cost and Pricing Insights
 Online Ordering & Table Booking Trends
 Data Visualization and Business Insights
+
 Tools & Technologies
 Python
 Pandas
@@ -20,6 +21,6 @@ Jupyter Notebook
 Project Outcome
 
 Generated actionable insights on restaurant performance, customer preferences, and market trends to help improve business strategies and customer satisfaction.
-Author
 
+Author
 Sravani
